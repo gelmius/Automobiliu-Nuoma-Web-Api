@@ -1,0 +1,6 @@
+Nuomos Užsakymas ID: 8
+Marke Modelis: Toyota Corolla
+Paros Kaina: 30
+Bendra Kaina: 200
+Laikotarpis Nuo: 12/18/2024 9:32:15 AM
+Laikotarpis Iki: 12/30/2024 9:32:15 AM

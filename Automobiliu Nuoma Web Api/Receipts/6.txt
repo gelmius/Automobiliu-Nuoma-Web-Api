@@ -1,0 +1,6 @@
+Nuomos Užsakymas ID: 6
+Marke Modelis: Volkswagen Golf
+Paros Kaina: 35
+Bendra Kaina: 100
+Laikotarpis Nuo: 11/18/2024 9:26:54 AM
+Laikotarpis Iki: 11/30/2024 9:26:54 AM
